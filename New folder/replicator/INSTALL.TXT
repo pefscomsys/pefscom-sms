@@ -1,0 +1,13 @@
+Sync two mysql databases using PHP
+
+You will find two different script here:
+- load-mysql.php takes import.sql file, that was exported from phpmyadmin and imports it into mysql database (tested, binary safe)
+- sync-mysql.php connects to two mysql databases and copies each table from first database into the second database (deletes table before copying)
+This can be useful to load large mysql database into hosting, because phpmyadmin sometimes does not allow to load files greater than 2mb
+
+How to install:
+- Download latest apache+php+mysql package, for example OpenServer.
+- Edit mysql.php and input mysql host, user, password, db.
+- If you want to use load-mysql.php, please export sql in phpmyadmin of the source database. When exporting select option to DROP tables before creating if you want to rewrite tables.
+
+To run just open load-mysql.php or sync-mysql.php in browser

@@ -1,0 +1,41 @@
+Algèbre	LINAFI-PMT-101	Mécanique Navale                       	200	1				1	2016/2017
+Analyse	LINAFI-PMT-102	Mécanique Navale                       	200	1				1	2016/2017
+Trigonométrie	LINAFI-PMT-103	Mécanique Navale                       	200	1				1	2016/2017
+Statistique 	LINAFI-PMT-104	Mécanique Navale                       	200	1				1	2016/2017
+Chimie minérale 	LINAFI-MN-105	Mécanique Navale                       	200	1				1	2016/2017
+Thermodynamique et transfert de chaleur 	LINAFI-PMT-106	Mécanique Navale                       	200	1				2	2016/2017
+Électronique I	LINAFI-PM-107	Mécanique Navale                       	200	1				2	2016/2017
+Électrotechnique I	LINAFI-PM-108	Mécanique Navale                       	200	1				2	2016/2017
+Anglais/ Français 	LINAFI-PMT-109	Mécanique Navale                       	200	1				2	2016/2017
+Anglais Maritime 1	LINAFI-PM-110	Mécanique Navale                       	200	1				2	2016/2017
+Informatique et TIC	LINAFI-PMT-111	Mécanique Navale                       	200	1				1	2016/2017
+Base de données et réseaux	LINAFI-PM-112	Mécanique Navale                       	200	1				1	2016/2017
+Les marées et calculs nautiques	LINAFI-PM-117	Mécanique Navale                       	200	1				3	2016/2017
+Signalisation maritime 	LINAFI-PM-118	Mécanique Navale                       	200	1				2	2016/2017
+Règlementation Internationale du trafic maritime  	LINAFI-PM-217	Mécanique Navale                       	200	1				1	2016/2017
+Notions de base de la navigation 	LINAFI-PM-119	Mécanique Navale                       	200	1				1	2016/2017
+Soudage-outillage-sécurité	LINAFI-MN-120	Mécanique Navale                       	200	1				2	2016/2017
+Moteurs à combustion interne 	LINAFI-PM-140	Mécanique Navale                       	200	1				1	2016/2017
+Moteur Diesel et Moteur Diesel marin 	LINAFI-PM-141	Mécanique Navale                       	200	1				1	2016/2017
+Atelier multi technique moteur I	LINAFI-MN-121	Mécanique Navale                       	200	1				2	2016/2017
+									2016/2017
+Algèbre	LINAFI-PMT-101	Mécanique Navale                       	200	2				1	2016/2017
+Analyse	LINAFI-PMT-102	Mécanique Navale                       	200	2				1	2016/2017
+Trigonométrie	LINAFI-PMT-103	Mécanique Navale                       	200	2				1	2016/2017
+Statistique 	LINAFI-PMT-104	Mécanique Navale                       	200	2				1	2016/2017
+Chimie minérale 	LINAFI-MN-105	Mécanique Navale                       	200	2				1	2016/2017
+Thermodynamique et transfert de chaleur 	LINAFI-PMT-106	Mécanique Navale                       	200	2				2	2016/2017
+Électronique I	LINAFI-PM-107	Mécanique Navale                       	200	2				2	2016/2017
+Électrotechnique I	LINAFI-PM-108	Mécanique Navale                       	200	2				2	2016/2017
+Anglais/ Français 	LINAFI-PMT-109	Mécanique Navale                       	200	2				2	2016/2017
+Anglais Maritime 1	LINAFI-PM-110	Mécanique Navale                       	200	2				2	2016/2017
+Informatique et TIC	LINAFI-PMT-111	Mécanique Navale                       	200	2				1	2016/2017
+Base de données et réseaux	LINAFI-PM-112	Mécanique Navale                       	200	2				1	2016/2017
+Les marées et calculs nautiques	LINAFI-PM-117	Mécanique Navale                       	200	2				3	2016/2017
+Signalisation maritime 	LINAFI-PM-118	Mécanique Navale                       	200	2				2	2016/2017
+Règlementation Internationale du trafic maritime  	LINAFI-PM-217	Mécanique Navale                       	200	2				1	2016/2017
+Notions de base de la navigation 	LINAFI-PM-119	Mécanique Navale                       	200	2				1	2016/2017
+Soudage-outillage-sécurité	LINAFI-MN-120	Mécanique Navale                       	200	2				2	2016/2017
+Moteurs à combustion interne 	LINAFI-PM-140	Mécanique Navale                       	200	2				1	2016/2017
+Moteur Diesel et Moteur Diesel marin 	LINAFI-PM-141	Mécanique Navale                       	200	2				1	2016/2017
+Atelier multi technique moteur I	LINAFI-MN-121	Mécanique Navale                       	200	2				2	2016/2017
